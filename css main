@@ -1,0 +1,571 @@
+.site-branding img {
+    width:499px;
+    height:45px;
+	  margin-bottom:75px;
+}
+
+@media screen and (max-width: 1020px) {
+.site-branding img {
+  width: 120px;
+  height: 11px;
+	margin-bottom:5px;
+}}
+
+@media (max-width: 564px){
+.vce-sid-left article.vce-lay-e:nth-of-type(n), .vce-sid-none article.vce-lay-e:nth-of-type(n), .vce-sid-none article.vce-lay-h:nth-of-type(n), .vce-sid-right article.vce-lay-e:nth-of-type(n) {
+margin: 0 0 10px 0;
+}
+.vce-sid-none article.vce-lay-h:nth-of-type(3n) {
+margin: 0 0 3% 0;
+}
+}
+
+.main-navigation .nav-menu {
+    font-size: inherit;
+}
+
+.nav-menu .vce-mega-cat>a:after, .nav-menu>.menu-item-has-children>a:after {
+    display: none;
+} 
+
+h1.entry-title-page {
+    font-size: 22px;
+    line-height: 47px;
+    margin: 0 auto;
+    width: 600px;
+    padding: 32px 0px 20px 0px;
+}
+
+h1.entry-title {
+    font-size: 4.1rem;
+    text-align: center;
+}
+
+@media only screen and (min-width: 200px) and (max-width: 670px)
+#body .entry-title {
+    font-size: 24px;
+    line-height: 1.4;
+    max-width: 100%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+h2 {
+    font-size: 2.9rem;
+}
+
+h3 {
+    font-size: 2.2rem;
+}
+
+.main-box {
+    box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.1);
+
+}
+
+.widget .widget-title
+{
+	background:none;
+	}
+
+.widget {
+	border: 1px solid #ddd !important;
+	border-radius:0px;
+	box-shadow: 2px 2px 12px rgb(49 62 87 / 22%)
+}
+
+.vce-sid-left .sidebar {
+    float: left;
+    padding-top: 38px;
+}
+
+.vce-content-outside {
+    display: none;
+    position: relative;
+    text-align: center;
+    float: left;
+    border-top: 1px solid rgba(0,0,0,0.05);
+    padding: 13px 20px;
+}
+
+.main-box-title, .comment-reply-title, .main-box-head {
+    background: #ffffff;
+    color: #232323;
+    border: 1px solid #ddd !important;
+    border-radius: 0px;
+}
+
+.vce-res-nav a {color:#FFF;}
+.vce-res-nav a:hover {color:#FFF;}
+
+.adthrive-ad {
+	  background-color: #F6F6F6 !important;
+}
+
+.data-content {
+    margin: 0 0 0 0px;
+}
+
+.data-image {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+	  display: none;
+}
+
+.cl-template {
+	box-shadow: 2px 2px 12px rgb(49 62 87 / 7%)
+}
+
+.cl-template--id-20683  {
+	min-height:350px;
+}
+
+.cl-template--id-21107  {
+	min-height:330px;
+}
+
+.cl-template--id-21838  {
+	min-height:267px;
+}
+
+.masters-label {
+	min-width:33%;
+	float:left;
+}
+
+.masters-description
+{
+	float: left;
+	font-size: 19px;
+}
+
+.masters-button
+{
+	float:left;
+}
+
+.masterbox {
+}
+
+#mastercard {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+	margin-top: -31px;
+}
+
+#mastercard td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#mastercard tr:nth-child(even){background-color: #f2f2f2;}
+
+#mastercard tr:hover {background-color: #ddd;}
+
+#mastercard th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 12px;
+  text-align: left;
+  background-color: #444444;
+  color: white;
+}
+a.mks_button.mks_button_large {
+    padding: 20px 40px;
+    min-width: 100px;
+    text-align: center;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.course-label
+{
+	min-width:100%;
+	padding: 5px 5px 5px 15px !important;
+	margin-top: 5px!important;
+	float:right;
+}
+
+.course-category {
+
+	font-size: 11px !important;
+	min-width:100%;
+	padding: 5px 5px 5px 15px !important;
+	margin-top: 5px!important;
+	float:right;
+}
+
+.course-details {
+	text-align: center;
+	float:right;
+	padding: 45px 17px 15px 15px !important;
+}
+
+.course-details :hover
+{
+	background-color: #1b67ab !important;
+	color: #FFF !important;
+}
+
+.course-title {
+background: black;
+	width: 100%;
+	min-height: 125px;
+	max-height: 125px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+	line-height: 25px !important;
+}
+
+.course-title a:hover
+{
+    color:#FFF;
+    background-image: none !important;
+}
+
+.course-box {
+	box-shadow: 5px 2px 2px rgb(49 62 87 / 7%) !important;
+	    border-radius: 4px !important;
+    border-width: 1px !important;
+    border-color: #9b9b9b !important;
+}
+
+.course-type 
+{
+	margin-top: -10px !important;
+	float: right;
+	padding-right: 12px !important;
+	padding-left: 12px !important;
+	background: #ff9933;
+}
+
+.sub-menu a {
+	font-size: 13px !important; 
+}
+
+.job-label {
+	min-width:50%;
+	float:left;
+}
+
+#coursescard {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 50%;
+	float: left;
+	margin: 6px 20px 0px 0px !important;
+}
+
+@media screen and (max-width: 1020px) { #coursescard {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}}
+
+#coursescard td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#coursescard tr:nth-child(even){
+	background-color: #f2f2f2;
+}
+
+#coursescard tr:hover {
+	background-color: #ddd;
+}
+
+#coursescard th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 12px;
+  text-align: left;
+  background-color: #444444;
+  color: white;
+}
+
+.wp-block-table {
+  margin-bottom: 0px;
+}
+
+.box123 {
+  background-color: #f2f2f2;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.btn123 {
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 3px;
+  background-color: #1e73be;
+  color: #fff;
+  transition: all 0.2s ease-in-out;
+}
+
+.btn123:hover {
+  transform: translateY(-2px);
+  box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.2);
+	text-decoration: none !important;
+}
+
+.lawfirmbox-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  max-width: 840px;
+	min-height: 480px;
+  margin: 0 auto;
+}
+
+.lawfirmbox {
+  position: relative;
+  width: calc(33.33% - 10px);
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+	min-width: 265px;
+}
+
+.lawfirmbox img {
+  width: 100%;
+  display: block;
+	margin: 0px 0px -30px 0px;
+}
+
+.lawfirmdescription {
+  padding: 20px 10px 100px 10px;
+	font-size: 15px;
+  background-color: #f9f9f9;
+  text-align: center;
+}
+
+.lawfirmdescription h3 {
+  margin-top: 0;
+  font-size: 20px
+}
+
+.lawfirmbutton {
+  position: absolute;
+  bottom: 75px;
+  right: 20px;
+  padding: 10px 10px;
+  background-color: #1b67ab;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  font-size: 16px;
+  text-decoration: none;
+  transition: all 0.2s ease-in-out;
+}
+
+.lawfirmbutton:hover {
+  background-color: #1b67ab;
+	text-decoration: none;
+}
+
+.entry-content a {
+    background-repeat: no-repeat;
+    background-size: 100% 0;
+    background-position: 0 111%;
+    transition: all  0.2s ease;
+}
+.entry-content a:hover{
+    color:#FFF;
+    background-image: linear-gradient(to bottom, #1e73be 0%, #1e73be 100%);
+    background-size: 100% 100%;
+}
+
+.tool-label {
+	min-width:33%;
+	float:left;
+}
+
+.tool-description
+{
+	float: left;
+	font-size: 19px;
+}
+
+.tool-button
+{
+	float:left;
+}
+
+.toolbox {
+}
+
+#toolcard {
+  font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+  border-collapse: collapse;
+  width: 100%;
+	margin-top: 0px;
+}
+
+#toolcard td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#toolcard tr:nth-child(even){background-color: #f2f2f2;}
+
+#toolcard tr:hover {background-color: #ddd;}
+
+#toolcard th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 12px;
+  text-align: left;
+  background-color: #444444;
+  color: white;
+}
+
+.wp-polls .Buttons {
+    border: 1px solid #000000;
+    background-color: #000000;
+}
+
+.wp-polls
+{
+     margin-bottom: 35px;
+     padding-bottom: 25px;
+		 padding-left: 50px;
+	   padding-right: 50px;
+	   padding-top: 35px;
+	   background-color: 	#D3D3D3;
+}
+
+.conversion-box {
+  width: 100%;
+  max-width: 840px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+.conversion-row {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.conversion-logo {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  margin-right: 20px;
+}
+
+@media (max-width: 767px) {             
+   .conversion-logo {
+      display: none;
+   }
+}
+
+.conversion-info {
+  flex-grow: 1;
+}
+
+.conversion-info h3 {
+  margin: 0;
+  font-size: 19px;
+  font-weight: bold;
+	padding-left: 25px;
+  color: #333;
+	text-align: left;
+}
+
+@media (max-width: 767px) {             
+   .conversion-info h3 {
+     font-size: 16px;
+		 line-height:1.2em;
+		 padding-right: 15px;
+		 padding-left: 0px !important;
+   }
+}
+
+.conversion-info p {
+  margin: 0;
+  font-size: 16px;
+  color: #666;
+	text-align: left;
+	padding-left: 25px;
+}
+
+@media (max-width: 767px) {             
+   .conversion-info p {
+     font-size: 13px;
+		 padding-right: 10px;
+		 text-align: left;
+		 padding-left: 0px !important;
+   }
+}
+
+.conversion-button {
+  display: inline-block;
+  padding: 10px 15px 10px 15px;
+	margin-top: 5px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #fff;
+  background-color: #002e7a;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
+}
+
+@media (max-width: 767px) {             
+   .conversion-button {
+      font-size: 10px;
+		  line-height: 1em;
+		  margin-top: 5px;
+		  padding: 5px 5px 5px 5px;
+		 	min-width: 60px !important;
+		  max-width: 60px !important;
+		  min-height: 40px !important; 
+		  min-height: 40px !important;
+   }
+}
+
+.conversion-button:hover {
+  transform: scale(1.1);
+  background-color: #002e7a;
+}
+
+.job-profiles-card {
+  width: 900px;
+}
+
+.hrc-nutshell:before {
+    content: 'In a nutshell';
+	  position:absolute;
+    background-color: white;
+    margin-top: -26px;
+    font-weight: 700;
+    font-size: 14px;
+    padding: 0px 6px;
+    color: black;
+    letter-spacing: 0px;
+}
+
+.hrc-nutshell {
+    border: solid 1px black !important;
+    padding: 12px 12px 12px 12px;
+    border-radius: 5px;
+    margin: 35px 0px;
+}
+
+#mlb2-8638658.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody, #mlb2-8638658.ml-form-embedContainer .ml-form-embedWrapper .ml-form-successBody {
+    padding: 0px 20px 0 20px !important;
+}
